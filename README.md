@@ -6,3 +6,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=HandeHudayioglu&style=flat-square&color=blue" alt=""/>
 
+![HandeHudayioglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandeHudayioglu&show_icons=true&theme=radical)
+
