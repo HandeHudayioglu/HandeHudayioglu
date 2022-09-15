@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=HandeHudayioglu&style=flat-square&color=blue" alt=""/>
 
-![HandeHudayioglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandeHudayioglu&show_icons=true&theme=moltack)
+![HandeHudayioglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandeHudayioglu&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandeHudayioglu&layout=compact)](https://github.com/HandeHudayioglu/github-readme-stats)
 
